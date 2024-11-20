@@ -124,7 +124,7 @@ Number of Roll Sessions: 1000000000
 
 
 
-### Own code x86 assembler (using AVX2 instruction set)
+### Own code [x86 assembler (using AVX2 instruction set)]: 0.13s
 In your video you said flex, so its tiome to flex :D
 
 I wil not only hand-careft this in assembler, I will gain over more power by utilising the parallel instruction sets like SSEx/AVX2.
